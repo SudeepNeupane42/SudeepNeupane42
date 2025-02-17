@@ -12,6 +12,8 @@
 - 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **sudeepneupane77@gmail.com**
+  
+- 👨‍💻 my Resume [https://github.com/SudeepNeupane42/resume](https://github.com/SudeepNeupane42/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
