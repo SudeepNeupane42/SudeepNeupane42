@@ -19,9 +19,14 @@
 ---
 
 ### 📌 Featured Projects
-> 🚧 Currently building — check back soon!
 
----
+| Project | Description | Stack |
+|---|---|---|
+| [nepse-data-pipeline](https://github.com/SudeepNeupane42/nepse-data-pipeline) | ETL pipeline collecting, cleaning & visualizing NEPSE stock data | Python, Pandas, SQLite, Matplotlib |
+| [nepal-cricket-analysis](https://github.com/SudeepNeupane42/nepal-cricket-analysis) | Pure SQL analysis of Nepal's CWC League 2 ODI performance | SQL, SQLite |
+| [foreign-exchange-pipeline](https://github.com/SudeepNeupane42/foreign-exchange-pipeline) | Automated live NPR exchange rate pipeline with hourly scheduling | Python, requests, schedule, SQLite |
+| [taskflow](https://github.com/SudeepNeupane42/taskflow) | Role-based task & performance management system (BIM final year project) | React, TypeScript, Supabase |
+| [FINAL-EDUMAP](https://github.com/SudeepNeupane42/FINAL-EDUMAP) | Platform to identify and map unreached schools across Nepal | HTML, CSS, JS |
 
 ### 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudipneupane42)
