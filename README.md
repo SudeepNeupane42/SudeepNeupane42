@@ -33,7 +33,7 @@
 | [foreign-exchange-pipeline](https://github.com/SudeepNeupane42/foreign-exchange-pipeline) | Automated live NPR exchange rate pipeline with hourly scheduling | Python, requests, schedule, SQLite |
 | [nepal-cricket-analysis](https://github.com/SudeepNeupane42/nepal-cricket-analysis) | Pure SQL analysis of Nepal's CWC League 2 ODI performance | SQL, SQLite |
 | [taskflow](https://github.com/SudeepNeupane42/taskflow) | Role-based task & performance management system (BIM final year project) | React, TypeScript, Supabase |
-| [british-airways-dashboard](https://github.com/SudeepNeupane42/british-airways-dashboard) | Cross-filtered Tableau dashboard on airline reviews with relationship joins & parameter-driven metrics | Tableau |
+| [british-airways-dashboard](https://github.com/SudeepNeupane42/british-airways-tableau-dashboard) | Cross-filtered Tableau dashboard on airline reviews with relationship joins & parameter-driven metrics | Tableau |
 
 ---
 
